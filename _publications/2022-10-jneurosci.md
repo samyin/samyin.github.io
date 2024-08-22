@@ -1,0 +1,12 @@
+---
+title: "Neural support for contributions of utility and narrative processing of evidence in juror decision making"
+collection: publications
+category: manuscripts
+permalink: /publication/2022-10-jneurosci
+date: 2022-10-05
+venue: 'Journal of Neuroscience'
+paperurl: 'https://www.jneurosci.org/content/jneuro/42/40/7624.full.pdf'
+citation: 'Castrellon, J. J., Hakimi, S., Parelman, J. M., Yin, L., Law, J. R., Skene, J. A. G., Ball, D. A., Malekpour, A., Beskind, D. H., Vidmar, N., Pearson, J. M., Carter, R. M., & Skene, J. H. P. (2022). Neural Support for Contributions of Utility and Narrative Processing of Evidence in Juror Decision Making. The Journal of neuroscience : the official journal of the Society for Neuroscience, 42(40), 7624–7633.'
+---
+
+Efforts to explain complex human decisions have focused on competing theories emphasizing utility and narrative mechanisms. These are difficult to distinguish using behavior alone. Both narrative and utility theories have been proposed to explain juror decisions, which are among the most consequential complex decisions made in a modern society. Here, we asked jury-eligible male and female subjects to rate the strength of a series of criminal cases while recording the resulting patterns of brain activation. We compared patterns of brain activation associated with evidence accumulation to patterns of brain activation derived from a large neuroimaging database to look for signatures of the cognitive processes associated with different models of juror decision-making. Evidence accumulation correlated with multiple narrative processes, including reading and recall. Of the cognitive processes traditionally viewed as components of utility, activation patterns associated with uncertainty, but not value, were more active with stronger evidence. Independent of utility and narrative, activations linked to reasoning and relational logic also correlated with increasing evidence. Hierarchical modeling of cognitive processes associated with evidence accumulation supported a more prominent role for narrative in weighing evidence in complex decisions. However, utility processes were also associated with evidence accumulation. These complementary findings support an emerging view that integrates utility and narrative processes in complex decisions.
