@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sam (Lun) Yin's Homepage"
+title                    : "Sam Yin's Homepage"
 title_separator          : "-"
-name                     : &name "Sam Yin"
-description              : &description "personal website"
+name                     : &name "Sam (Lun) Yin"
+description              : &description "a personal website"
 url                      : https://samyin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samyin/samyin.github.io"
@@ -22,7 +22,7 @@ repository               : "samyin/samyin.github.io"
 author:
   # Biographic information
   avatar           : "headshot.jpg"
-  name             : "Sam Yin"
+  name             : "Sam (Lun) Yin"
   pronouns         : he/him/his # example: "she/her"  
   bio              : "statistician (Bayesian), reader, father"
   location         : "Atlanta, Georgia"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://https://scholar.google.com/citations?user=U1OxJCgAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=U1OxJCgAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-2630-6038"
   semantic         : # URL
@@ -101,7 +101,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
