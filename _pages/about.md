@@ -9,6 +9,6 @@ redirect_from:
 
 My name is Sam Yin (尹倫). Welcome to my website!
 
-I am currently a PhD student in biostatistics at Emory University. My advisor is Dr. Howard Chang.
+I am a PhD student in biostatistics at Rollins School of Public Health, Emory University. My dissertation advisor is Dr. Howard Chang.
 
-Feel free to check out the tabs in top navigation bar or contact me via email.
+Feel free to check out the tabs in top navigation bar. If you have any question, you could contact me via email.

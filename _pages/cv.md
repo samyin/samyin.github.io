@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* 2017/09 to 2020/07: Associate in Research
+* 2017/09 - 2020/07: Associate in Research
   * Center for Cognitive Neuroscience, Duke Institute for Brain Sciences
   * Projects: 
     * modeling monkeys’ strategies in a competitive, real-time video game with dynamic mixture of Gaussian components parametrized by neural networks and variational inference
@@ -38,15 +38,32 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
+<!---
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+-->
+
 Teaching
 ======
+<!---
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
+* Teaching Assistantship
+  * Emory University
+    * BIOS 510 - Introduction to Probability Theory (Fall 2021)
+    * BIOS 512 - Probability Theory I (Fall 2022)
+    * BIOS 513 - Statistical Inference I (Spring 2022, Spring 2023)
+  * Duke University
+    * STA 111 - Probability and Statistical Inference (Spring 2016, Fall 2016)
+    * STA 250 / MATH 342 - Introduction to Mathematical Statistics (Spring 2017)
+
+Awards
+======
+* Undergraduate Teaching Assistant of the Year, Duke University, 2017
+* Best Insight Award, American Statistical Association DataFest, 2017
