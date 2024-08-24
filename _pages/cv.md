@@ -39,9 +39,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+<!---
 Talks
 ======
-<!---
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
@@ -56,11 +56,12 @@ Teaching
 -->
 * Teaching Assistantship
   * Emory University
-    * BIOS 510 - Introduction to Probability Theory (Fall 2021)
-    * BIOS 512 - Probability Theory I (Fall 2022)
-    * BIOS 513 - Statistical Inference I (Spring 2022, Spring 2023)
-  * Duke University
-    * STA 111 - Probability and Statistical Inference (Spring 2016, Fall 2016)
+    * BIOS 510 - Introduction to Probability Theory (graduate-level, Fall 2021)
+    * BIOS 512 - Probability Theory I (graduate-level, Fall 2022)
+    * BIOS 513 - Statistical Inference I (graduate-level, Spring 2022 and Spring 2023)
+    * QTM 210 - Probability and Statistics (undergraduate-level, Fall 2022 and Spring 2023)
+  * Duke University (undergraduate-level)
+    * STA 111 - Probability and Statistical Inference (Spring 2016 and Fall 2016)
     * STA 250 / MATH 342 - Introduction to Mathematical Statistics (Spring 2017)
 
 Awards
