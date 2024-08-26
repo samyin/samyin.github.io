@@ -1,6 +1,6 @@
 ---
-permalink: /links/
 title: "Books and Links"
+permalink: /otherlinks/
 author_profile: true
 ---
 
